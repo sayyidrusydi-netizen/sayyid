@@ -48,8 +48,8 @@
      <svg class="w-20 h-20 mx-auto mb-6 text-green-600" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5" />
      </svg>
     </div>
-    <h1 id="villa-name" class="text-4xl md:text-6xl font-bold text-green-800 mb-4">Lembur Incu Syariah Villa</h1>
-    <p id="tagline" class="text-xl md:text-2xl text-green-700 font-medium">Peaceful Islamic Retreat in Beautiful Lembang</p>
+    <h1 id="villa-name" class="text-4xl md:text-6xl font-bold text-green-800 mb-4">Lembur Incu Syariah Villa & Venue</h1>
+    <p id="tagline" class="text-xl md:text-2xl text-green-700 font-medium">Peaceful Family Retreat in Beautiful Lembang</p>
    </header><!-- Main Content -->
    <section class="max-w-6xl mx-auto px-6 pb-12"><!-- Welcome Card -->
     <div class="villa-card rounded-3xl p-8 md:p-12 mb-12 hover-lift">
@@ -88,8 +88,8 @@
       <svg class="w-8 h-8 text-green-600 mr-3 mt-1 flex-shrink-0" fill="currentColor" viewbox="0 0 24 24"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z" />
       </svg>
       <div class="text-center">
-       <p class="text-lg font-semibold text-green-800">Villa In Lembang, Bandung No 166</p>
-       <p class="text-lg font-semibold text-green-800">Gedong Lima, Sukajaya</p>
+       <p class="text-lg font-semibold text-green-800">Villa In Lembang, Bandung</p>
+       <p class="text-lg font-semibold text-green-800">Gedong Lima, Sukajaya No.166</p>
        <p class="text-gray-600 mt-2">Lembang, Bandung Barat, West Java, Indonesia</p>
       </div>
      </div><!-- Location Features -->
@@ -125,7 +125,7 @@
         </svg>
        </div>
        <h3 class="font-bold text-green-800 mb-2">Phone</h3>
-       <p id="phone-number" class="text-lg text-gray-700">+62 812-3456-7890</p>
+       <p id="phone-number" class="text-lg text-gray-700">+62 821-2821-6212</p>
       </div>
       <div class="text-center">
        <div class="w-16 h-16 bg-yellow-400 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -133,7 +133,7 @@
         </svg>
        </div>
        <h3 class="font-bold text-green-800 mb-2">Email</h3>
-       <p id="email" class="text-lg text-gray-700">info@lemburincuvilla.com</p>
+       <p id="email" class="text-lg text-gray-700">lemburincu@gmail.com</p>
       </div>
      </div>
      <div class="text-center mt-8"><button class="bg-green-600 hover:bg-green-700 text-white font-bold py-4 px-8 rounded-full text-lg transition-colors duration-300 hover-lift"> Book Your Stay </button>
@@ -143,19 +143,19 @@
    <footer class="text-center py-8 px-6">
     <div class="villa-card rounded-2xl p-6 max-w-2xl mx-auto">
      <p class="text-gray-600 mb-2">© 2024 Lembur Incu Syariah Villa</p>
-     <p class="text-gray-500 text-sm">Experience Islamic hospitality in the heart of Lembang</p>
+     <p class="text-gray-500 text-sm">Experience family hospitality in the heart of Lembang</p>
     </div>
    </footer>
   </main>
   <script>
         const defaultConfig = {
-            villa_name: "Lembur Incu Syariah Villa",
-            tagline: "Peaceful Islamic Retreat in Beautiful Lembang",
+            villa_name: "Lembur Incu Syariah Villa & Venue",
+            tagline: "Peaceful Family Retreat in Beautiful Lembang",
             welcome_title: "Welcome to Our Villa",
             description: "Experience tranquility and comfort at our Syariah-compliant villa nestled in the scenic hills of Lembang, Bandung. Perfect for families seeking a peaceful getaway with Islamic values.",
             contact_title: "Contact Us",
-            phone_number: "+62 812-3456-7890",
-            email: "info@lemburincuvilla.com",
+            phone_number: "+62 821-2821-6212",
+            email: "lemburincu@gmail.com",
             primary_color: "#22c55e",
             secondary_color: "#fbbf24",
             background_color: "#ffffff"
